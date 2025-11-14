@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Kai-Hsin Hung (Daniel)</h1>
-
+<p> MS in Data Science @ University of the Pacific (May 2026) | Data Engineer | Software Engineer (AI/ML) <p>
 <p>
   <a href="https://linkedin.com/in/kai-hsin-hung" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
