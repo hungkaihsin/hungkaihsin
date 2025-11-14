@@ -42,6 +42,9 @@ Here are the primary technologies I work with:
 | TensorFlow | MySQL | Render |
 | Keras | SQLite | Statistical Testing |
 | PyTorch | REST APIs | Data Mining |
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungkaihsin&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
 
 ---
 
@@ -54,3 +57,13 @@ Here are some of the projects I'm most proud of.
 | **[Time Series Forecasting of TSMC Stock](https://github.com/hungkaihsin/Time-Series-Forecasting-of-TSMC-Stock-Prices-Using-RNNs-and-ConvNets)** | Developed & optimized Deep Learning models (LSTM, GRU) for stock forecasting, achieving a 15% accuracy improvement with Keras Tuner. Deployed on Render. | `Python` `Flask` `React` `TensorFlow` `Keras` `Scikit-learn` |
 | **[NYC Traffic Collision Dashboard](https://github.com/hungkaihsin/NYC_Traffic_Collision_Analysis_Dashboard?tab=readme-ov-file)** | Built an ETL pipeline and interactive dashboard to analyze 2.1M+ collision records. Optimized the backend API to improve frontend responsiveness by 20%. | `Python` `Flask` `React` `Plotly` `Power BI` `ETL` |
 | **[AI-Powered Resume Analyzer](https://github.com/hungkaihsin/Resume-Analyzer)** | An AI-driven system to give resume feedback by integrating job APIs (Adzuna, SerpApi). Accelerated keyword extraction by 40% using an NLP pipeline. | `Python` `Flask` `React` `Pandas` `NLP` `REST APIs` |
+
+---
+
+### GitHub Status
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hungkaihsin&show_icons=true&theme=tokyonight&rank_icon=github" alt="Kai-Hsin's GitHub Stats">
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hungkaihsin&theme=tokyonight" alt="GitHub Streak Stats">
+</p>
