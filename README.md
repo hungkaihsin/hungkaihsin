@@ -40,9 +40,7 @@ Here are the primary technologies I work with:
 | SQL (PostgreSQL) | Spacy (NLP) | Google Cloud Platform |
 | HTML/CSS | Gemini API | GitHub Actions (CI/CD) |
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungkaihsin&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
+
 
 ---
 
@@ -58,10 +56,4 @@ Here are some of the projects I'm most proud of.
 
 ---
 
-### GitHub Status
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hungkaihsin&show_icons=true&theme=tokyonight&rank_icon=github" alt="Kai-Hsin's GitHub Stats">
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hungkaihsin&theme=tokyonight" alt="GitHub Streak Stats">
-</p>
+
