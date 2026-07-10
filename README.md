@@ -55,7 +55,7 @@ Here are some of the projects I'm most proud of.
 | **[Toxicity Prediction (MS Capstone)](https://github.com/hungkaihsin/toxicity-prediction)** | Contributed the **Ridge-regression baseline** to a 5-person, 7-model benchmark predicting 31 animal-toxicology endpoints from molecular SMILES, and harmonized the **DrugMatrix** dataset with PubChem API enrichment. | `Python` `Scikit-Learn` `Pandas` `Gemini API` |
 | **[DeepTSMC: Stock Forecasting](https://github.com/hungkaihsin/DeepTSMC)** | Achieved **2.19% Test MAE** benchmarking LSTM/GRU/Conv1D/FFN models. Implemented **CI/CD** pipelines via **GitHub Actions** and deployed on **Google Cloud Run**. | `TensorFlow` `React` `Docker` `GCP` `CI/CD` |
 | **[JobFit AI](https://github.com/hungkaihsin/JobFit-AI)** | A Generative AI career tool. Integrated **Gemini API** for resume parsing and skill gap analysis, boosting user retention by **30%**. | `Python` `Flask` `React` `Gemini API` `Firebase` |
-| **[NYC Traffic Collision Dashboard](https://github.com/hungkaihsin/NYC_Traffic_Collision_Analysis_Dashboard)** <br>*([Live demo](https://nyc-traffic-dashboard.web.app))* | ETL pipeline processing **2.15M** NYC OpenData records (~450MB → <200KB optimized payloads) behind an interactive **React + Plotly.js** dashboard. | `Python` `Pandas` `React` `Plotly.js` `Power BI` |
+| **[NYC Traffic Collision Dashboard](https://github.com/hungkaihsin/NYC_Traffic_Collision_Analysis_Dashboard)** | ETL pipeline processing **2.15M** NYC OpenData records (~450MB → <200KB optimized payloads) behind an interactive **React + Plotly.js** dashboard. | `Python` `Pandas` `React` `Plotly.js` `Power BI` |
 
 ---
 
