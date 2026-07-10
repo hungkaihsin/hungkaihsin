@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Kai-Hsin Hung (Daniel)</h1>
-<p> MS in Data Science @ University of the Pacific (May 2026) | Data Scientist & Data Engineer | First-Author Paper @ IntelliSys 2026 <p>
+<p> MS in Data Science @ University of the Pacific (May 2026) | Data Scientist & Data Engineer | Paper Accepted @ IntelliSys 2026 <p>
 <p>
   <a href="https://linkedin.com/in/kai-hsin-hung" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -22,7 +22,7 @@
 
 * &nbsp; M.S. in Data Science @ **University of the Pacific**, May 2026 (GPA: 3.96/4.0)
 * &nbsp; B.S. in Materials Science & Engineering @ **Ming Chi University of Technology** (Taiwan), Jun 2023 — my materials/semiconductor background pairs with data science for manufacturing analytics
-* &nbsp; **First-author publication:** "GoPark: An AI-Powered Parking Recommendation System" — **IntelliSys 2026**, Springer LNNS (Accepted)
+* &nbsp; **Publication:** "GoPark: An AI-Powered Parking Recommendation System" — **IntelliSys 2026**, Springer LNNS (Accepted)
 * &nbsp; **Software Engineer Intern @ BirthdayMessaging.io:** Built a Python data ingestion pipeline and a cron-based scheduler that automated 100% of daily email dispatch.
 * &nbsp; My technical focus is **Machine Learning** (Scikit-Learn, PyTorch), **Computer Vision** (YOLOv8), **NLP & LLMs** (spaCy, Gemini API), and **Cloud** (GCP, Docker).
 * &nbsp; I build **production-ready applications**, moving beyond notebooks to deploy models on **Cloud Run** and **iOS (SwiftUI)**.
